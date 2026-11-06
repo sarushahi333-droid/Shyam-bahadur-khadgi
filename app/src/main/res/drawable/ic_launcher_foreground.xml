@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Heavenly Light Rays -->
+    <path
+        android:fillColor="#55FFD700"
+        android:pathData="M54,26 L56,36 L52,36 Z" />
+    <path
+        android:fillColor="#33FFD700"
+        android:pathData="M44,28 L49,37 L46,38 Z" />
+    <path
+        android:fillColor="#33FFD700"
+        android:pathData="M64,28 L62,38 L59,37 Z" />
+
+    <!-- Open Holy Bible Base Book Pages -->
+    <!-- Left Page -->
+    <path
+        android:fillColor="#F7F5EF"
+        android:pathData="M52,44 C42,42 34,44 26,48 L26,76 C34,72 42,70 52,72 Z" />
+    <!-- Right Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,44 C66,42 74,44 82,48 L82,76 C74,72 66,70 56,72 Z" />
+
+    <!-- Book Spine & Shadow -->
+    <path
+        android:fillColor="#DDD7C6"
+        android:pathData="M52,44 L56,44 L56,72 L52,72 Z" />
+    <path
+        android:fillColor="#C4B89D"
+        android:pathData="M53.5,44 L54.5,44 L54.5,72 L53.5,72 Z" />
+
+    <!-- Book Page Lines (Left) -->
+    <path
+        android:fillColor="#D8D1BD"
+        android:pathData="M31,52 L47,49 L47,50.5 L31,53.5 Z M31,56 L47,53 L47,54.5 L31,57.5 Z M31,60 L47,57 L47,58.5 L31,61.5 Z M31,64 L47,61 L47,62.5 L31,65.5 Z" />
+
+    <!-- Book Page Lines (Right) -->
+    <path
+        android:fillColor="#D8D1BD"
+        android:pathData="M61,49 L77,52 L77,53.5 L61,50.5 Z M61,53 L77,56 L77,57.5 L61,54.5 Z M61,57 L77,60 L77,61.5 L61,58.5 Z M61,61 L77,64 L77,65.5 L61,62.5 Z" />
+
+    <!-- Golden Christian Cross in Center -->
+    <!-- Vertical beam -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M52,32 L56,32 L56,66 L52,66 Z" />
+    <!-- Horizontal beam -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M44,40 L64,40 L64,44 L44,44 Z" />
+    <!-- Cross Highlight -->
+    <path
+        android:fillColor="#FFE894"
+        android:pathData="M53,33 L54,33 L54,65 L53,65 Z M45,41 L63,41 L63,42 L45,42 Z" />
+
+    <!-- Red Ribbon Bookmark -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M53,72 L55,72 L56,84 L54,81 L52,84 Z" />
+</vector>
